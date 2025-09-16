@@ -21,7 +21,7 @@ The notebook shows:
 
 > ⚠️ Note: The dataset used here is **synthetic and simplified**. It is a mock data. It is designed to demonstrate the concepts and pipeline rather than reproduce the original research results. The real sphingolipid datasets are not publicly available.
 
-The following figures are adapted from the publication  
-![Prediction performance](figures/pred_vs_actual.png)
+The following figure is adapted from the publication  
+![Model performance](figures/modeling.png)
 
 > Figure is adopted from the open-access article under the Creative Commons Attribution 4.0 International License.
